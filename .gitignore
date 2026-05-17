@@ -1,8 +1,7 @@
 .venv/
 .history/
-input/*
-output/*
-tmp/
-*.pdf
-*.backup
 scripts/__pycache__/
+tmp/
+*.backup
+*.htm*
+*.pdf
